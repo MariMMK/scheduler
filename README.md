@@ -4,13 +4,13 @@ The Interviewer Scheduler is a single page application built with React. The app
 
 ## Demo
 Create New Interview Booking
-![Create new interview](scheduler_clinet/Create an Appointment.gif)
+![Create new interview](https://github.com/MariMMK/scheduler/blob/690d9437645d68a9cb5376de4293929434955191/docs/Create%20an%20Appointment.gif)
 
 Edit an Interview Bookings
-![Edit an interviews](scheduler_clinet/docs/Edit an Appointment.gif)
+![Edit an interviews](https://github.com/MariMMK/scheduler/blob/690d9437645d68a9cb5376de4293929434955191/docs/Edit%20an%20Appointment.gif)
 
 Delete an Interview Bookings
-![Delete an interviews](scheduler_clinet/docs/Delete an Appointment.gif)
+![Delete an interviews](https://github.com/MariMMK/scheduler/blob/690d9437645d68a9cb5376de4293929434955191/docs/Delete%20an%20Appointment.gif)
 
 ## Setup
 
